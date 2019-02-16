@@ -1,0 +1,6 @@
+github "Moya/Moya"
+github "ReactiveX/RxSwift" ~> 4.0
+github "RxSwiftCommunity/RxDataSources" ~> 3.0
+github "SnapKit/SnapKit" ~> 4.0.0
+github "bahlo/SwiftGif" ~> 1.7.0
+github "onevcat/Kingfisher" ~> 5.0
